@@ -1,4 +1,4 @@
-# wheather_app
+# Wheather App
 
 A new Flutter project.
 
