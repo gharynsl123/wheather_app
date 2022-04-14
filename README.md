@@ -1,7 +1,8 @@
 # Wheather App
+Flutter Project On school 
+| **semester 2** |
+| :--: |
 
-A new Flutter project.
-
-## Getting Started
-
-This is my wheather app from my school
+## The result of my app
+| <img src="images/Search Widget.png"/> | <img src="images/Weather app.png"/> |
+| :--: | :--: |
